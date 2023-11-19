@@ -1,6 +1,6 @@
-# Your Shell Project
+# My Shell Project
 
-Your Shell Project is a simple implementation of a shell in C++. It provides a command-line interface that allows users to interact with the system by entering and executing commands.
+My Shell Project is a simple implementation of a shell in C++. It provides a command-line interface that allows users to interact with the system by entering and executing commands.
 
 ## Features
 
@@ -13,7 +13,7 @@ Your Shell Project is a simple implementation of a shell in C++. It provides a c
 ### Prerequisites
 
 - C++ compiler
-- CMake 
+- CMake
 
 ### Building the Project
 
@@ -41,4 +41,6 @@ Your Shell Project is a simple implementation of a shell in C++. It provides a c
 After building the project, you can run the shell:
 
 ```bash
-./shell
+cd build
+./ccsh
+```
